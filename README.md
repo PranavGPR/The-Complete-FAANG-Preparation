@@ -20,7 +20,7 @@
 ---
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) 
 [![GitHub followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/AkashSingh3031?tab=followers) 
 [![GitHub Stars](https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=social)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers) 
 [![GitHub Forks](https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=social)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members)
@@ -376,9 +376,19 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Important Books
 |   |   ├── Programming Language
 |   |   |   ├── C
+|   |   |   |   ├── Let Us C by Yashwant P. Kanetkar
+|   |   |   |   ├── C in Depth by S. K. Srivastava
+|   |   |   |   └── ... 
 |   |   |   ├── C++
+|   |   |   |   ├── Let Us C++ by Yashwant P. Kanetkar
+|   |   |   |   ├── C++: The Complete Reference by Herbert Schildt
+|   |   |   |   └── ... 
 |   |   |   ├── Python
+|   |   |   |   ├── Core Python by R. Nageswara Rao
+|   |   |   |   └── ... 
 |   |   |   ├── Java
+|   |   |   |   ├── Core Java - Black Book by R. Nageswara Rao
+|   |   |   |   └── ... 
 |   |   |   └── ...
 |   |   ├── Data Structures
 |   |   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
@@ -397,10 +407,17 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   └── ...
 |   |   ├── Technical Subjects
 |   |   |   ├── OOP
+|   |   |   |   ├── Object Oriented Programming with C++ by E. Balagurusamy
+|   |   |   |   └── ... 
 |   |   |   ├── OS
+|   |   |   |   ├── Operating System Concepts by Abraham Silberschatz
+|   |   |   |   └── ... 
 |   |   |   ├── DBMS
-|   |   |   ├── SQL
+|   |   |   |   ├── Database System Concepts by Abraham Silberschatz
+|   |   |   |   └── ... 
 |   |   |   ├── CN
+|   |   |   |   ├── Computer Networking - A Top-Down Approach by James F. Kurose
+|   |   |   |   └── ... 
 |   |   |   └── ...
 |   |   ├── Aptitude & Reasoning
 |   |   ├── Low Level Design
@@ -503,6 +520,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Database Management System (DBMS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS))
       - [DBMS.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS)/Readme.md)
    - [Structured Query Language (SQL)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL))
+      - [SQL.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL)/Readme.md)
    - [Computer Network (CN)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN))
    - [Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/Interview%20Questions)
 
