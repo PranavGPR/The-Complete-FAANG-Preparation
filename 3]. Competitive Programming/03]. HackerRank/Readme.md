@@ -1,5 +1,13 @@
 # [HackerRank](https://www.hackerrank.com)
+<p align="center">
+    <img width="1000" height="200" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/HackerRank-1.png">
+</p><br>
+<!-- [![HackerRank](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/HackerRank-1.png)](https://www.hackerrank.com) -->
 
+### 1. [Practice](https://www.hackerrank.com/dashboard)
+### 2. [Compete](https://www.hackerrank.com/contests)
+
+<!-- 
 ### 1. [C](https://www.hackerrank.com/domains/c)
 
 ### 2. [C++](https://www.hackerrank.com/domains/cpp)
@@ -20,4 +28,4 @@
    - [Data Structures](https://www.hackerrank.com/domains/data-structures)
    - [Algorithms](https://www.hackerrank.com/domains/algorithms)
 
-### 10. [SQL](https://www.hackerrank.com/domains/sql)
+### 10. [SQL](https://www.hackerrank.com/domains/sql) -->
