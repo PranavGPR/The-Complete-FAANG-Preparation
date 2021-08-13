@@ -425,6 +425,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   |   └── ... 
 |   |   |   └── ...
 |   |   ├── Aptitude & Reasoning
+|   |   |   └── ...
 |   |   ├── Low Level Design
 |   |   |   ├── Object Oriented Design
 |   |   |   └── ...
@@ -573,7 +574,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
       - [Applications](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#applications)
       - [Unix](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#unix)
 
-### 8. [Behavioural Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/7.%5D%20Behavioural%20Interview/behavioural-interview-ques.md)
+### 8. [Behavioural Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/7%5D.%20Behavioural%20Interview)
 
 </br>
 
