@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=50F719FF&size=40&width=750&height=80&lines=The+Complete+FAANG+Preparation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=FFFB00&size=40&width=750&height=80&lines=The+Complete+FAANG+Preparation"/>
 </p>
 
 <!-- <p align="center">
@@ -9,7 +9,7 @@
 [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
  
 <p align="center">
-  <code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt=AkashSingh3031 /></code>
+  <code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt="Views Count" /></code>
 </p>
 
 <p align="center">
@@ -30,6 +30,7 @@
 [![License](https://img.shields.io/badge/License-MIT-red.svg?logo=github&style=social)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
 ![Size](https://img.shields.io/github/repo-size/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=github&label=Repo%20Size%20)
 ![Lines of code](https://img.shields.io/tokei/lines/github/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=github&label=Lines%20of%20Code)
+[![Connect on Kaggle](https://img.shields.io/badge/--kaggle?label=Kaggle&logo=kaggle&style=social)](https://www.kaggle.com/akashsingh3031)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akash-singh3031/) 
 [![Connect on WhatsApp](https://img.shields.io/badge/--WhatsApp?label=WhatsApp&logo=WhatsApp&style=social)](https://wa.me/919794423031)
 [![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/akash_singh3031)
@@ -65,14 +66,14 @@
 
 ---
 
-# 🏆 `The Complete FAANG Preparation` 🏆
+# `🏆 The Complete FAANG Preparation 🏆`
 
 This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions,FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are the C++, Python, and Java.
 
 
 ## `Table of Contents 📋`
 | SNo. | **Contents** |
-| ---  | ---------    |
+| ---  | ------------ |
 | 0.   | [ASK Your Doubts](#0-ask-your-doubts) |
 | 1.   | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
 | 2.   | [DSA](#2-dsa) |
@@ -117,7 +118,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Algorithms
 |   |   └── ...
 |   |
-|   ├── 450 DSA by @Love Babbar
+|   ├── 450 DSA by Love Babbar
 |   |   └── ...
 |   |
 |   ├── Striver Series
@@ -202,6 +203,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── 10 Days of JavaScript
 |   |   |   ├── 10 Days of Statistics
 |   |   |   └── ...
+|   |   |
 |   |   ├── Compete
 |   |   |   ├── ProjectEuler+
 |   |   |   └── ... 
@@ -220,6 +222,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Algorithms
 |   |   |   ├── Math
 |   |   |   └── ... 
+|   |   |
 |   |   ├── Compete
 |   |   |   └── ... 
 |   |   └── ...
@@ -232,6 +235,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Hard
 |   |   |   ├── Challenge
 |   |   |   └── Peer 
+|   |   |
 |   |   ├── Compete
 |   |   |   ├── Long Challenge
 |   |   |   |   ├── Div-1
@@ -260,6 +264,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   |   ├── D
 |   |   |   |   └── ... 
 |   |   |   └── ... 
+|   |   |
 |   |   ├── Contests
 |   |   |   ├── Rounds
 |   |   |   |   ├── Div-1
@@ -296,6 +301,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Greedy Algorithm
 |   |   |   ├── Graph Data Structure & Algorithms
 |   |   |   └── ...
+|   |   |
 |   |   ├── Contests
 |   |   |   └── ... 
 |   |   └── ...
@@ -309,6 +315,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── Operating System (OS)
+|   |   ├── OS.md
 |   |   └── ...
 |   |
 |   ├── Database Management System (DBMS)
@@ -320,6 +327,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── Computer Network (CN)
+|   |   ├── CN.md
 |   |   └── ...
 |   |
 |   ├── Interview Questions
@@ -395,21 +403,26 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   |   ├── Core Java - Black Book by R. Nageswara Rao
 |   |   |   |   └── ... 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Data Structures
 |   |   |   ├── Data Structures and Algorithms by Narasimha Karumanchi
 |   |   |   ├── Data Structures and Algorithms in Python by Michael T. Goodrich 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Algorithms
 |   |   |   ├── Introduction to Algorithms by Thomas H. Cormen
 |   |   |   ├── Algorithms by Robert Sedgewick and Kevin Wayne 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Competitive Programming
 |   |   |   ├── Guide to Competitive Programming by Antti Laaksonen
 |   |   |   ├── Competitive Programmer’s Handbook by Antti Laaksonen 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Coding Interviews
 |   |   |   ├── Cracking the Coding Interview by GAYLE LAAKMANN MCDOWELL
 |   |   |   └── ...
+|   |   |
 |   |   ├── Technical Subjects
 |   |   |   ├── OOP
 |   |   |   |   ├── Object Oriented Programming with C++ by E. Balagurusamy
@@ -424,8 +437,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   |   ├── Computer Networking - A Top-Down Approach by James F. Kurose
 |   |   |   |   └── ... 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Aptitude & Reasoning
 |   |   |   └── ...
+|   |   |
 |   |   ├── Low Level Design
 |   |   |   ├── Object Oriented Design
 |   |   |   └── ...
@@ -436,6 +451,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── DSA Series
 |   |   |   ├── Technical Series
 |   |   |   └── ...
+|   |   |
 |   |   ├── Interview Preparation
 |   |   |   ├── HR Interview Questions
 |   |   |   ├── Interview Experience
@@ -458,6 +474,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 └── 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒖𝒓𝒂𝒍 𝑰𝒏𝒕𝒆𝒓𝒗𝒊𝒆𝒘 𝑸𝒖𝒆𝒔𝒕𝒊𝒐𝒏𝒔
 |   └── ...
+|
 └── ...
 
 ```
@@ -523,11 +540,13 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Object Oriented Programming (OOPs)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP))
       - [OOP.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP)/Readme.md)
    - [Operating System (OS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS))
+      - [OS.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS)/Readme.md)
    - [Database Management System (DBMS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS))
       - [DBMS.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS)/Readme.md)
    - [Structured Query Language (SQL)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL))
       - [SQL.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL)/Readme.md)
    - [Computer Network (CN)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN))
+      - [CN.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN)/Readme.md)
    - [Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/Interview%20Questions)
 
 ### 5. [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201)
